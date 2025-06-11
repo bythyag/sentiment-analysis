@@ -15,18 +15,8 @@ pip install (all the important libraries like matplotlib, sklearn, texblob, nltk
 
 ### usage
 ```bash
-python post-analysis.py
+python /src/main.py
 ```
-
-### requirements
-- python 3.x
-- pandas
-- numpy 
-- nltk
-- textblob
-- scikit-learn
-- matplotlib
-- seaborn
 
 ### files
 - input: `linkedin-post/*.json`
